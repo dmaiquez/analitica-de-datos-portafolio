@@ -107,7 +107,7 @@ Dashboard de Tendencias Estilo Predominante
 
 <img width="1035" height="594" alt="image" src="https://github.com/user-attachments/assets/4a45d539-dfab-40bf-a850-fa68d9519f2f" />
 
-Dashboard de Tendencias Estilo Predominante
+Dashboard de Tendencias Practicos vs Innovadores
 
 <img width="1045" height="587" alt="image" src="https://github.com/user-attachments/assets/fbeb3cda-b715-4678-8dee-7524c513d7ff" />
 
