@@ -3,6 +3,15 @@ Descripción:
 
 Sistema de captura y análisis de datos desarrollado para una casa abierta temática de los años 80. La información registrada por los visitantes era almacenada en SQL Server y visualizada mediante dashboards en Power BI con actualización automática cada 5 minutos.
 
+## Tecnologías
+- Java
+- Spring Framework
+- JSP
+- SQL Server
+- Power BI Desktop
+- Power BI Service
+- GitHub
+
 ## Rol
 Mi participación:
 
@@ -29,15 +38,6 @@ Dashboard Colores
 <img width="925" height="535" alt="image" src="https://github.com/user-attachments/assets/42d43087-7e5e-431c-948c-a7be6447a8b6" />
 Dashboard Juegos
 <img width="923" height="533" alt="image" src="https://github.com/user-attachments/assets/dd7a400f-2926-4127-a58d-349799e75217" />
-
-## Tecnologías
-- Java
-- Spring Framework
-- JSP
-- SQL Server
-- Power BI Desktop
-- Power BI Service
-- GitHub
 
 ## Nota de privacidad
 Los datos personales fueron anonimizados antes de la publicación del proyecto.
